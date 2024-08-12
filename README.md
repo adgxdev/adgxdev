@@ -11,11 +11,3 @@
 ### Profile Visits
 
 ![visitors](https://komarev.com/ghpvc/?username=devalexdgreat)
-
-<details>
-
-### Github Stats
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=devalexdgreat&count_private=true&theme=dark&hide=contribs,issues)
-
-</details>

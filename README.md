@@ -5,7 +5,9 @@
 - 💞️ I’m looking to collaborate on interesting Web Projects
 - 📫 How to reach me: 
 - ✉ alex_dgreat001@protonmail.com
-- 🌐 https://twitter.com/adgdev_
+- 📞 +2347036361052
+- 🔗 https://twitter.com/adgdev_
+- 🌐 https://adgdev.vercel.app
 
 
 ### Profile Visits

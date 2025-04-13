@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ogbuagu Great Alexander
-- 👨🏽‍💻 I am a Fullstack Developer, i currently build with; React, Nextjs, Typescript, Node, Express, Mongo, PhP, and lots of modern libraries like TailwindCss and styled-components.
+- 👨🏽‍💻 I am a Fullstack Developer, i currently build with; React, Nextjs, Typescript, Node, Express, Mongo, PhP, and lots of modern libraries like TailwindCSS and styled-components.
 <!-- - 👀 I’m interested in ... -->
 - 🌱 I’m currently learning Web3/Blockchain development and Mobile Development with React Native
 - 💞️ I’m looking to collaborate on interesting Web Projects
